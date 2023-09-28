@@ -10,5 +10,6 @@ setup(
         "numpy",
         "python-dotenv",
         "pandas",
+        "scikit-learn",
         ],
 )
